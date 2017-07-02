@@ -1,6 +1,6 @@
 OWNER_ID = 'destro'
 BOT_PREFIX = '(bot)'
-TOKEN = 'CxiO1Uov2jQ08W6janJsEtva32FKvAGF'
+TOKEN = 'MzMxMDg0MTI2NTAzNDM2Mjk4.DDqh9w.3HJxYJAstoGnbY01JYpQcaZSMSo'
 GAME_CHANNEL = 'lobby'
 DEBUG_CHANNEL = 'debug channel '
 WEREWOLF_SERVER = 'Loup-Garou'
